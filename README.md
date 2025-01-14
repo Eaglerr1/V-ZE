@@ -23,4 +23,5 @@ Bu proje, React.js kullanılarak geliştirilmiş bir CV uygulamasıdır. Proje, 
 
 ## Kurulum
 1. Bu projeyi yerel makinenize klonlayın:
-   ```bash https://github.com/Eaglerr1/V-ZE
+   ```bash
+   git clone https://github.com/Eaglerr1/V-ZE
